@@ -5,6 +5,6 @@ Rastgele Anahtar Üretici
 Kurulum:
 
 1. Adım: Kodları ZIP olarak indirin.
-2. Adım: Dosyaları mevcut host'unuza atın.
+2. Adım: Dosyaları mevcut hostunuza atın.
 
 2022-2023 By Emir Tolis.
